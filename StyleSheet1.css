@@ -1,0 +1,18 @@
+﻿body {
+}
+
+#header_wrap{
+    width:100%;
+    height:500px;
+    background: #ff0000 URL("http://www.mrwallpaper.com/wallpapers/guitar-girl-beach.jpg")no-repeat;
+    position:relative;
+
+}
+
+
+ul#nav li {
+   position: relative;
+   list-style: none;
+   height: 48px;
+   display: inline-block;
+}
